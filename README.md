@@ -7,7 +7,7 @@ A student of B.Tech. in Computer Science and Engg skilled in Flutter, Dart, Java
 - 👀 I’m interested in Flutter.
 - 🌱 I’m currently Looking for internship as well as fulltime opportunity.
 - 💞️ I’m looking to collaborate on freelancing flutter projects.
-- 📫 Reach me: mailto:BiswajeetGupta@gmail.com
+- 📫 Reach me: mailto:biswajeetgupta484@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiswajeetGupta&label=Profile%20views&color=0e75b6&style=flat" alt="BiswajeetGupta" /> </p>
 
 Stats
@@ -24,7 +24,7 @@ Stats
 
  <p align="left" margin-top="10px">
 <a href="https://www.linkedin.com/in/biswajeet-gupta-a8a8431b0"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="40"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=BiswajeetGupta@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=biswajeetgupta484@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a> 
 </p>
 <hr>
 
