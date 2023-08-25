@@ -1,11 +1,10 @@
 ## Hey👋, I'm Biswajeet Gupta
 
 
-A student of B.Tech. in Computer Science and Engg skilled in Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
+A Flutter Developr skilled in Flutter, Dart, Java, Android, Kotlin. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
 
 - 👋 Hi, I’m @BiswajeetGupta.
 - 👀 I’m interested in Flutter.
-- 🌱 I’m currently Looking for internship as well as fulltime opportunity.
 - 💞️ I’m looking to collaborate on freelancing flutter projects.
 - 📫 Reach me: mailto:biswajeetgupta484@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiswajeetGupta&label=Profile%20views&color=0e75b6&style=flat" alt="BiswajeetGupta" /> </p>
